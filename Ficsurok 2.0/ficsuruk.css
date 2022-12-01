@@ -2,25 +2,17 @@
     margin: 0;
     padding: 0;
 }
-
-.container{
-    height: 100vh;
-    width: 100%;
-    background-image: url(images/ikt.jpg);
-    background-position: center;
-    background-size: cover;
-    padding-left: 5%;
-    padding-right: 5%;
-    box-sizing: border-box;
-    position: relative;
+.logo{
+    height: 200px;
 }
 
-h1{
-    padding: auto;
-    text-align: center;
 
+
+#body{
+    background-color: white;
+    background-image: url(Hatter.png);
+    background-repeat: no-repeat;
+    background-position:unset;
+    background-size:cover;
 }
 
-img{
-    float: right;
-}
