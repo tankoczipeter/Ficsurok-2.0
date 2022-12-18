@@ -1,0 +1,48 @@
+.logo{
+    height: 200px;
+}
+#trai{
+    width: 30vw;
+    height: 30vh;
+}
+
+#hat {
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    z-index: -1;
+  }
+h2,p,h5,h4,h3,img{
+    color:orangered;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+#tvid {
+    width: 100%;
+    height: auto;
+  }
+#fvid {
+    width: 100%;
+    height: auto;
+}
+#u_sz{
+    margin-left: 30%;
+    margin-right: 30%;
+}
+#bp1 {
+    width: 100%;
+    height: auto;
+}
+#bp2 {
+        width: 100%;
+        height: auto;
+}
+h1{
+    color:whitesmoke;
+}
