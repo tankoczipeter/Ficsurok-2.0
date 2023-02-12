@@ -73,9 +73,27 @@ print(i)
 i = [1,2,3,4,5]
 k = i.copy()
 print(k)
-"""
+
 #9
 d = int(input("Adjon meg egy 20-nál kisebb pozitív számot:"))
 r = " "
 print(r*d,"START")
+#7
+szam6=int(input("Kérem adjon meg egy pozitív egész számot:"))
 
+if szam6 <= 3:
+    print("Nics tőle kisebb 3-mal osztható pozitív egész szám.")
+
+else:
+    x = 3
+    while szam13 > x:
+        if x %3 == 0:
+            print(x)
+        x += 1
+"""
+#23
+szov = input("Kérem adjon meg egy mondatot: ")
+list = szov.split(" ")
+list.reverse()
+for x in list:
+    print(x, end=" ")
