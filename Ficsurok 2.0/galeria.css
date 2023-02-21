@@ -13,3 +13,9 @@
     margin-left: 5%;
     margin-right: 5%;
 }
+h2{
+   color: orange;
+   font-size: 150%;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   text-align: center;
+}
