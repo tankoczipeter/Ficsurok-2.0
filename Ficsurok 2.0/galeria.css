@@ -20,6 +20,11 @@ h2{
    text-align: center;
 }
 img{
-    width:30%;
-    height: 30%;
+    width: 900px;
+    height: 600px;
+    margin-left: 26%;
+}
+button{
+    margin-left: 20%;
+    margin-right: 21%;
 }
