@@ -9,28 +9,18 @@
     bottom: 0;
     z-index: -1;
   }
-.container{
-    margin-left: 5%;
-    margin-right: 5%;
-}
 h2{
    color: orange;
    font-size: 150%;
    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
    text-align: center;
 }
-img{
-    width: 900px;
-    height: 600px;
-    margin-left: 26%;
-}
-<<<<<<< HEAD
-
-ol{
+p{
     color: orange;
+    font-size: 150%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
 }
-button{
-    margin-left: 20%;
-    margin-right: 21%;
->>>>>>> 5784a31f9cc770e615f67db6888723e24a48bb50
+img{
+    margin-left: 15%;
 }
