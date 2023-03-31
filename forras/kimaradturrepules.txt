@@ -1,0 +1,2 @@
+Égi mechanika
+A világűrben haladó test mozgását az égi mechanika írja le. Mozgását a közeli gravitációs terek (jellemzően a Nap, a bolygók és a nagyobb holdak), illetve az űreszköz hajtóművének alkalmazása határozza meg. A pálya gondos tervezésével, a gravitációs terek hatásának figyelembe vételével (lásd: hintamanőver) a felhasználandó üzemanyag mennyisége jelentősen csökkenthető, illetve az űreszköz adott helyre adott időben való érkezése előre kiszámítható.
