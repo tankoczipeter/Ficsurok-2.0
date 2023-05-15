@@ -1,0 +1,3 @@
+Memória
+A memória a számítógépek egyik szükséges részegysége. Memória nélkül nem lehetséges számítógépet építeni. A memória a számítógép működéséhez szükséges programot és program futásához szükséges adatokat tárolja.
+További információ a memóriáról

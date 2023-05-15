@@ -1,0 +1,57 @@
+body{
+    
+    background-color: #40E868;
+}
+header{    
+    background-position: center center;
+    background-color: rgb(29,181,69);
+    height: 200px;
+
+}
+
+h1{
+    background-color: rgba(205, 209, 59, 0.6);
+    margin-top: 80px;
+    font-family: Arial;
+    color: #777777;
+    font-weight: bold;
+}
+
+h2{    
+    margin-top: 10px;    
+    color: #777777;
+    border-bottom: 2px solid;
+    border-color: #777777;
+    font-variant: small-caps;
+    padding: 5px 10px;
+}
+
+h3{    
+    font-weight: bold;
+    color: #894f3b;    
+    text-align: center;
+    font-size: 130%;
+    letter-spacing: 5px;
+    
+}
+
+
+td,th{
+    text-align: center;
+}
+
+thead>tr:first-child{    
+    letter-spacing: 2px;  
+}
+.navbar{
+    background-color: white;
+}
+p{
+    text-align: justify;
+    text-indent: 25px;
+}
+li{
+    float: left;
+    margin-left: 50px;
+}
+
